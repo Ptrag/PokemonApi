@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Piotr\.android\build-cache\d8f1519cf51691d23aa6184b0bb94333adfae5fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Java\Andorid\projekty przykladowe\PokemonApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5d2e567102cd16c6fe5abfceda3b2bff119c832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Java\Andorid\projekty przykladowe\PokemonApi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7beafe7a19e011427e8488015dc1341716ce4471">
+        <dex dex="C:\Java\Andorid\projekty przykladowe\PokemonApi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a641c4dbfcdf36021cd53aca19554d238a5bc38c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Piotr\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Java\Andorid\projekty przykladowe\PokemonApi\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_690b7889f4c58d744a420c7e2e231e512d8406be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Java\Andorid\projekty przykladowe\PokemonApi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Java\Andorid\projekty przykladowe\PokemonApi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bbc2ef5c3b5e26ab40d3d236c3b10b6c033cbe40\classes.dex" />
+    </item>
+
+</items>
